@@ -27,8 +27,7 @@ Start the Flask server to kick off the real-time chat application:
 
 
 
-![Sample1](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/505cbfb8-3c45-401c-8611-652afd23ecb2)
-![Sample2](https://github.com/KevinPTT/Real-Time-Chat-Application/assets/150591989/f945ca3e-5085-471f-9c4f-5767cd5274f7)
+![Pic](https://github.com/NicholeAngel/Real-Time-Chat/assets/151384692/54fbe1aa-1626-4977-8fab-63c038d51540)
 
  
 
