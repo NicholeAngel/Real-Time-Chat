@@ -14,7 +14,7 @@ This project aims to create a real-time chat application using Python's Tkinter 
 Open your terminal and run the following command to clone the project repository from GitHub:
 
 
-git  clone  https://github.com/KevinPTT/Real-Time-Chat-Application
+git  clone  https://github.com/NicholeAngel/Real-Time-Chat
 
 2. Run the Server.py and client.py
 Start the Flask server to kick off the real-time chat application:
