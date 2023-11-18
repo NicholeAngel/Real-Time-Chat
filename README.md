@@ -1,6 +1,6 @@
 # Real-time Chat Application
 
-## Introdution
+## Introduction
 
 Real-time chat programs are now a necessary component of online interactions in the fast-paced world of digital communication. Instant communication is in more demand than ever, whether it's for interacting with an audience, working on projects together, or just keeping in touch with pals. In this blog post, we'll look at how to use sockets for communication and Tkinter for the graphical user interface to build a real-time chat application in Python.
 
