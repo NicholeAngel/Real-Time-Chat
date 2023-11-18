@@ -10,6 +10,9 @@ Python: A Dynamic Foundation
 Sockets: The Communication Backbone
 - Sockets are crucial for network communication, enabling dependable connections between servers and clients in our real-time chat application, ensuring a responsive chat experience.
 
+Tkinter: Building the User Interface
+- Tkinter, a Python-integrated GUI toolkit, will be used in our chat program to design windows, buttons, and other GUI elements, ensuring an engaging and interactive user experience.
+
 ## Installation
 
   
