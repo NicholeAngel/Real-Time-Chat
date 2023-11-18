@@ -7,6 +7,9 @@ Real-time chat programs are now a necessary component of online interactions in 
 Python: A Dynamic Foundation
 - Python is an adaptable and versatile language suitable for various tasks, including data analysis and web development, due to its extensive library and framework selection. Its asynchronous features provide a strong foundation for real-time applications.
 
+Sockets: The Communication Backbone
+- Sockets are crucial for network communication, enabling dependable connections between servers and clients in our real-time chat application, ensuring a responsive chat experience.
+
 ## Installation
 
   
