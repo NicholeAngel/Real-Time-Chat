@@ -1,8 +1,5 @@
 # Real-time Chat Application
 
-  
-
-This project aims to create a real-time chat application using Python's Tkinter library and sockets. The goal is to create a smooth communication channel between clients and servers, combining effective communication with user-friendly design, and enhancing the chat experience.
 
   
 
@@ -28,6 +25,7 @@ Start the Flask server to kick off the real-time chat application:
 
 
 ![Pic](https://github.com/NicholeAngel/Real-Time-Chat/assets/151384692/54fbe1aa-1626-4977-8fab-63c038d51540)
+![Pic2](https://github.com/NicholeAngel/Real-Time-Chat/assets/151384692/e25b8a57-ff7c-4183-ac5f-9ae7b07f7e2b)
 
  
 
