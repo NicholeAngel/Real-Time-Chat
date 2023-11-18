@@ -74,4 +74,4 @@ Visual Studio Code - IDE
 
   
 
-[@KevinPTT](https://github.com/KevinPTT/Real-Time-Chat-Application) - Kevin L. Costamero - Developer
+[@NicholeAngel](https://github.com/NicholeAngel/Real-Time-Chat) - Angel Nichole Q. Velasco - Developer
